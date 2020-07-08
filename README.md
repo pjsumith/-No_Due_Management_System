@@ -2,5 +2,5 @@
 /*...
 A Complete Java project..
 DBMS mini project
-DB is not been provided... Needed write to:-mansic2023@gmail.com
+DB is not been provided... 
 ...*/
